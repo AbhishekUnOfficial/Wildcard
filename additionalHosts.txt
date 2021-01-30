@@ -1,37 +1,17 @@
-*teddymobile.cn
-*heytapdownload.com
-*heytapmobile.com
-*heytapmobi.com
-*heytapdl.com
-*darken.eu
-*oppomobile.com
-*realme.com
-*coloros.com
-*helpshift.com
-*toiimg.com
-*woohoo.in
-*moengage.com
-*wps.com
-*kingsoft-office-service.com
-*wsds.cn
-*xunyou.mobi
-*facebook.com
-
-##### AUTOMATIC ENTRIES BELOW! #####
-
 ## Blacklisted Entries! ##
-
-persona-etl.wps.com
-plugin-server.wps.com
-cloud.wpscdn.com
-novel-recommend.wps.com
-assistant.wps.com
-account.wps.com
-cloudservice23.kingsoft-office-service.com
-service-api.kingsoft-office-service.com
-firstpage.kingsoft-office-service.com
-nmp1-logs.gaana.com
-pay.gaana.com
-logs.gaana.com
-rec.gaana.com
-contentst-prod.gaana.com
+#
+#
+0.0.0.0 persona-etl.wps.com
+0.0.0.0 plugin-server.wps.com
+0.0.0.0 cloud.wpscdn.com
+0.0.0.0 novel-recommend.wps.com
+0.0.0.0 assistant.wps.com
+0.0.0.0 account.wps.com
+0.0.0.0 cloudservice23.kingsoft-office-service.com
+0.0.0.0 service-api.kingsoft-office-service.com
+0.0.0.0 firstpage.kingsoft-office-service.com
+0.0.0.0 nmp1-logs.gaana.com
+0.0.0.0 pay.gaana.com
+0.0.0.0 logs.gaana.com
+0.0.0.0 rec.gaana.com
+0.0.0.0 contentst-prod.gaana.com
