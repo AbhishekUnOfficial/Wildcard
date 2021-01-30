@@ -15,3 +15,6 @@
 0.0.0.0 logs.gaana.com
 0.0.0.0 rec.gaana.com
 0.0.0.0 contentst-prod.gaana.com
+0.0.0.0 appconf.heytapdownload.com
+0.0.0.0 dragate-in-dc.heytapmobile.com
+0.0.0.0 conf-in-dc.heytapdl.com
