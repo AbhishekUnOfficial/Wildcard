@@ -18,3 +18,5 @@
 0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 dragate-in-dc.heytapmobile.com
 0.0.0.0 conf-in-dc.heytapdl.com
+0.0.0.0 i-in01a-ocloud.heytapmobile.com
+0.0.0.0 httpdns-ocloud.heytapmobile.com
